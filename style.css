@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  background-color: #3e5879; /* Light gray background */
+  color: #333; /* Dark gray text */
+  line-height: 1.6;
+  padding: 20px;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: #b59f78;
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  color: #b59f78;
+}
