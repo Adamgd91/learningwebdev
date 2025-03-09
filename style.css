@@ -28,6 +28,17 @@ li {
   border: 1px dotted white;
 }
 
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid red;
+}
+
 .header {
   color: #b59f78;
+  text-align: center;
+}
+
+.socials {
+  background-color: rgba(255, 228, 196, 0.308);
 }
