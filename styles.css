@@ -9,3 +9,8 @@
   height: 10em;
   width: 10em;
 }
+
+.title {
+  margin: 20px 0;
+  text-align: center;
+}
