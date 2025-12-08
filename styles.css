@@ -14,3 +14,23 @@
   margin: 20px 0;
   text-align: center;
 }
+
+.section_google {
+  display: block;
+  margin: 0 auto;
+}
+
+.googs_img {
+  display: block;
+  margin: 10px auto;
+  width: 300px;
+}
+
+.searching {
+  display: block;
+  margin: 0 auto;
+  border-radius: 12px;
+  border: 1px solid rgb(117, 120, 122);
+  width: 400px;
+  height: 30px;
+}
