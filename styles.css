@@ -29,11 +29,30 @@
   display: block;
   margin: 0 auto;
   border-radius: 12px;
-  border: 1px solid rgb(117, 120, 122);
+  border: 1px solid rgba(128, 128, 128, 0.628);
   width: 400px;
   height: 30px;
 }
 
+.buttons {
+  margin: 0 auto;
+  /* display: block; */
+}
+
+.searching {
+  margin: 0 auto;
+  display: block;
+}
+
+.luckyy {
+  margin: 0 auto;
+}
+
 button {
-  padding: 10px;
+  padding: 9px 18px;
+  border-radius: 18px;
+  background-color: white;
+  border: 1px solid rgba(128, 128, 128, 0.628);
+  font-weight: bold;
+  font-size: 12px;
 }
