@@ -15,7 +15,7 @@
   text-align: center;
 }
 
-.section_google {
+/* .section_google {
   margin-top: 100px;
 }
 
@@ -39,16 +39,6 @@
   justify-content: center;
 }
 
-/* .searching-btn {
-  margin: 0 auto;
-  display: block;
-}
-
-.luckyy {
-  margin: 0 auto;
-  display: block;
-} */
-
 button {
   padding: 9px 18px;
   border-radius: 18px;
@@ -56,4 +46,33 @@ button {
   border: 1px solid rgba(128, 128, 128, 0.628);
   font-weight: bold;
   font-size: 12px;
+  margin: 10px 2px;
+} */
+
+.googs-img {
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.search-bar {
+  display: block;
+  width: 400px;
+  margin: 15px auto;
+  border-radius: 12px;
+  border: 1px solid rgb(218, 212, 212);
+  height: 30px;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  padding: 8px 16px;
+  border: 1px solid rgb(218, 212, 212);
+  background-color: white;
+  border-radius: 12px;
+  margin: 0 10px;
 }
