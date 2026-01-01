@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.google-section {
+  border: 1px solid red;
+}
+
 /* .space-section {
   width: 50%;
 } */
