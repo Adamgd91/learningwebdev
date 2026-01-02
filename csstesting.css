@@ -8,10 +8,19 @@
   border: 1px solid red;
 }
 
+.img-google {
+  display: block;
+  margin: 0 auto;
+}
+
 /* .space-section {
   width: 50%;
 } */
 
 .space-img {
   width: 100%;
+}
+
+.container-google {
+  margin: 10px 0;
 }
