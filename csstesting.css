@@ -28,6 +28,19 @@
   width: 300px;
 }
 
+.btns-divs {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  padding: 8px 16px;
+  border: 1px solid rgb(218, 212, 212);
+  background-color: white;
+  border-radius: 12px;
+  margin: 0 10px;
+}
+
 /* .space-section {
   width: 50%;
 } */
