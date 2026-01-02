@@ -9,7 +9,7 @@
 }
 
 .google-section {
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .img-google {
@@ -21,7 +21,11 @@
 }
 .search {
   display: block;
-  margin: 0 auto;
+  margin: 10px auto;
+  border-radius: 18px;
+  border: 0.5px solid rgb(197, 193, 193);
+  padding: 10px;
+  width: 300px;
 }
 
 /* .space-section {
