@@ -4,11 +4,22 @@
   box-sizing: border-box;
 }
 
+.container-google {
+  margin: 10px 0;
+}
+
 .google-section {
   border: 1px solid red;
 }
 
 .img-google {
+  display: block;
+  margin: 0 auto;
+}
+
+.search-input {
+}
+.search {
   display: block;
   margin: 0 auto;
 }
@@ -19,8 +30,4 @@
 
 .space-img {
   width: 100%;
-}
-
-.container-google {
-  margin: 10px 0;
 }
